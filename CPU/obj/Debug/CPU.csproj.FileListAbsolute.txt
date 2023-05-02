@@ -1,0 +1,77 @@
+C:\Users\mohammad\Desktop\CPU\CPU\bin\Debug\CPU.exe.config
+C:\Users\mohammad\Desktop\CPU\CPU\bin\Debug\CPU.exe
+C:\Users\mohammad\Desktop\CPU\CPU\bin\Debug\CPU.pdb
+C:\Users\mohammad\Desktop\CPU\CPU\obj\Debug\CPU.csprojResolveAssemblyReference.cache
+C:\Users\mohammad\Desktop\CPU\CPU\obj\Debug\CPU.Form1.resources
+C:\Users\mohammad\Desktop\CPU\CPU\obj\Debug\CPU.Properties.Resources.resources
+C:\Users\mohammad\Desktop\CPU\CPU\obj\Debug\CPU.csproj.GenerateResource.Cache
+C:\Users\mohammad\Desktop\CPU\CPU\obj\Debug\CPU.exe
+C:\Users\mohammad\Desktop\CPU\CPU\obj\Debug\CPU.pdb
+C:\Users\mohammad\Desktop\CPU\CPU\obj\Debug\CPU.Error.resources
+C:\Users\mohammad\Desktop\CPU\CPU\obj\Debug\CPU.Form2.resources
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 1\CPU\CPU\bin\Debug\CPU.exe.config
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 1\CPU\CPU\obj\Debug\CPU.exe
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 1\CPU\CPU\obj\Debug\CPU.pdb
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 1\CPU\CPU\obj\Debug\CPU.csprojResolveAssemblyReference.cache
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 1\CPU\CPU\obj\Debug\CPU.Error.resources
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 1\CPU\CPU\obj\Debug\CPU.Form1.resources
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 1\CPU\CPU\obj\Debug\CPU.Form2.resources
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 1\CPU\CPU\obj\Debug\CPU.Properties.Resources.resources
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 1\CPU\CPU\obj\Debug\CPU.csproj.GenerateResource.Cache
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 1\CPU\CPU\bin\Debug\CPU.exe
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 1\CPU\CPU\bin\Debug\CPU.pdb
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 2\CPU\CPU\bin\Debug\CPU.exe.config
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 2\CPU\CPU\obj\Debug\CPU.exe
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 2\CPU\CPU\obj\Debug\CPU.pdb
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 2\CPU\CPU\bin\Debug\CPU.exe
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 2\CPU\CPU\bin\Debug\CPU.pdb
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 2\CPU\CPU\obj\Debug\CPU.csprojResolveAssemblyReference.cache
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 2\CPU\CPU\obj\Debug\CPU.Error.resources
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 2\CPU\CPU\obj\Debug\CPU.Form1.resources
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 2\CPU\CPU\obj\Debug\CPU.Form2.resources
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 2\CPU\CPU\obj\Debug\CPU.Properties.Resources.resources
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 2\CPU\CPU\obj\Debug\CPU.csproj.GenerateResource.Cache
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 3\CPU\CPU\bin\Debug\CPU.exe.config
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 3\CPU\CPU\obj\Debug\CPU.exe
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 3\CPU\CPU\obj\Debug\CPU.pdb
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 3\CPU\CPU\bin\Debug\CPU.exe
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 3\CPU\CPU\bin\Debug\CPU.pdb
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 3\CPU\CPU\obj\Debug\CPU.csprojResolveAssemblyReference.cache
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 3\CPU\CPU\obj\Debug\CPU.Error.resources
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 3\CPU\CPU\obj\Debug\CPU.Form1.resources
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 3\CPU\CPU\obj\Debug\CPU.Form2.resources
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 3\CPU\CPU\obj\Debug\CPU.Properties.Resources.resources
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 3\CPU\CPU\obj\Debug\CPU.csproj.GenerateResource.Cache
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 4\CPU\CPU\bin\Debug\CPU.exe.config
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 4\CPU\CPU\obj\Debug\CPU.exe
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 4\CPU\CPU\obj\Debug\CPU.pdb
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 4\CPU\CPU\bin\Debug\CPU.exe
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 4\CPU\CPU\bin\Debug\CPU.pdb
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 4\CPU\CPU\obj\Debug\CPU.csprojResolveAssemblyReference.cache
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 4\CPU\CPU\obj\Debug\CPU.Error.resources
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 4\CPU\CPU\obj\Debug\CPU.Form1.resources
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 4\CPU\CPU\obj\Debug\CPU.Form2.resources
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 4\CPU\CPU\obj\Debug\CPU.Properties.Resources.resources
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 4\CPU\CPU\obj\Debug\CPU.csproj.GenerateResource.Cache
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 5\CPU\CPU\bin\Debug\CPU.exe.config
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 5\CPU\CPU\obj\Debug\CPU.exe
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 5\CPU\CPU\obj\Debug\CPU.pdb
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 5\CPU\CPU\bin\Debug\CPU.exe
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 5\CPU\CPU\bin\Debug\CPU.pdb
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 5\CPU\CPU\obj\Debug\CPU.csprojResolveAssemblyReference.cache
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 5\CPU\CPU\obj\Debug\CPU.Error.resources
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 5\CPU\CPU\obj\Debug\CPU.Form1.resources
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 5\CPU\CPU\obj\Debug\CPU.Form2.resources
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 5\CPU\CPU\obj\Debug\CPU.Properties.Resources.resources
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 5\CPU\CPU\obj\Debug\CPU.csproj.GenerateResource.Cache
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 6\CPU\CPU\bin\Debug\CPU.exe.config
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 6\CPU\CPU\obj\Debug\CPU.exe
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 6\CPU\CPU\obj\Debug\CPU.pdb
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 6\CPU\CPU\bin\Debug\CPU.exe
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 6\CPU\CPU\bin\Debug\CPU.pdb
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 6\CPU\CPU\obj\Debug\CPU.csprojResolveAssemblyReference.cache
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 6\CPU\CPU\obj\Debug\CPU.Error.resources
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 6\CPU\CPU\obj\Debug\CPU.Form1.resources
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 6\CPU\CPU\obj\Debug\CPU.Form2.resources
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 6\CPU\CPU\obj\Debug\CPU.Properties.Resources.resources
+F:\UNIVERSITY\THIRD SEMESTER\Data Structure\Data Structure Project 1\new 6\CPU\CPU\obj\Debug\CPU.csproj.GenerateResource.Cache
